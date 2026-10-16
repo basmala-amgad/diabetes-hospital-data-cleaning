@@ -1,2 +1,1 @@
-# diabetes-hospital-data-cleaning
-Hospital patient data cleaning project using Excel Power Query
+| [Hospital Patient Data Cleaning](https://github.com/basmala-amgad/diabetes-hospital-data-cleaning) | Cleaned 101,763 hospital records: handled missing values and standardized text | Excel, Power Query |
